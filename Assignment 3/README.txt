@@ -1,0 +1,1 @@
+This assignment implements a Klotski game using simulated annealing algorithm.
